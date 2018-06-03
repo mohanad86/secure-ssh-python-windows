@@ -14,7 +14,9 @@ until the monitoring solution will back in busniess.
 ### Administrator need to have the following to be able to run the code in the Windows environment
 
 1- Python version 2.7 (https://www.python.org/download/releases/2.7/)
+
 2- Install openssh server and client
+
 3- Install Nmap this is a direct link to download (https://nmap.org/dist/nmap-7.70-setup.exe)
 
 
