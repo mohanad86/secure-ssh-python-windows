@@ -7,7 +7,7 @@
 ### Scenario
 If the security monitoring solution fails, system administrator will use the current script to automate the distribution of the SSH public keys for all the machines in the network and will allow the administrator to SSH -t thoroughly the specific machine accompanied by the root permissions. 
 System administrator can use the following commands to ensure the security of the system, 
-until the monitoring solution will back in busniess. 
+until the monitoring solution will back in busniess. The following code run over Python 2.7 
 
 
 
